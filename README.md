@@ -12,5 +12,8 @@ so, to run this app you have to follow these steps.
 2. Install express using this command (npm install express -S).
 3. Install Nodemailer using this command (npm install nodemailer -S).
 4. Install dotenv using this command (npm install dotenv -S).
-5. Run command (npm start).
-6. End.
+5. Create a (.env) file .Enter following data.(https://github.com/mram98/contsucs/blob/master/ENVSHOOT.jpg)
+6. Run command ( npm start).
+7. End.
+
+
